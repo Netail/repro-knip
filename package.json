@@ -1,0 +1,6 @@
+{
+    "name": "repro-knip",
+    "devDependencies": {
+        "knip": "6.17.1"
+    }
+}
