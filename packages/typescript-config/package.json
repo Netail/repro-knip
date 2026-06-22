@@ -1,0 +1,12 @@
+{
+    "name": "@repro-knip/typescript-config",
+    "files": [
+        "base.json"
+    ],
+    "peerDependencies": {
+        "typescript": ">=6"
+    },
+    "devDependencies": {
+        "typescript": "6.0.3"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "@repro-knip/unused-devdependency-tsconfig-extends",
+    "bin": {
+        "test-cli": "src/bin/cli.ts"
+    },
+    "devDependencies": {
+        "@repro-knip/typescript-config": "workspace:*"
+    }
+}
