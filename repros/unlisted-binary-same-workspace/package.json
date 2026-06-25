@@ -1,9 +1,0 @@
-{
-    "name": "@repro-knip/unlisted-binary-same-workspace",
-    "bin": {
-        "test-cli": "src/bin/cli.ts"
-    },
-    "scripts": {
-        "test": "test-cli"
-    }
-}

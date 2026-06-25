@@ -1,7 +1,6 @@
 {
     "name": "repro-knip",
     "devDependencies": {
-        "knip": "6.20.0",
-        "@repro-knip/unlisted-binary-same-workspace": "workspace:*"
+        "knip": "6.20.0"
     }
 }
