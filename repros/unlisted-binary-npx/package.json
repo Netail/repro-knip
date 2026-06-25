@@ -1,6 +1,0 @@
-{
-    "name": "@repro-knip/unlisted-binary-npx",
-    "scripts": {
-        "generate-json-schema": "npx ts-json-schema-generator --path 'src/interfaces/config.ts' --type 'Config' --out 'src/schema.json'"
-    }
-}
